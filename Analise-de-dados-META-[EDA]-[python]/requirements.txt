@@ -4,3 +4,4 @@ python = 3.9+
 #library
 pandas = 1.0
 numpy = 1.0
+yfinace = 1.0
